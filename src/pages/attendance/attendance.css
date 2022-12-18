@@ -1,0 +1,35 @@
+.attendancewarrper {
+    margin: 20px;
+}
+
+.attendancefilter {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter {
+    display: flex;
+}
+
+.filter > label {
+    display: flex;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.breadcrumb > li {
+    cursor: pointer;
+}
+
+.dateinput {
+    cursor: pointer;
+}
+
+.cardattendance {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px 10px;
+}

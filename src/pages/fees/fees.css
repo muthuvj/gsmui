@@ -1,0 +1,39 @@
+.feescontainer {
+    padding: 20px;
+}
+
+.feeswrapper {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.feesdate {
+    margin-right: 20px;
+}
+
+.inputmonth {
+    cursor: pointer;
+}
+
+.feesfilter {
+    display: flex;
+    line-height: 20px;
+}
+
+.studentfilter {
+    display: flex;
+    margin-left: 20px;
+    line-height: 20px;
+    align-items: center;
+}
+
+.studentfilter > label {
+    margin-right: 10px;
+}
+
+.feesfilter > label {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}

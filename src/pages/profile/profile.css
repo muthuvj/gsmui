@@ -1,0 +1,17 @@
+.profiledetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.profiledetails > div {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.profiledetails > .form-group > span {
+    width: 50%;
+}

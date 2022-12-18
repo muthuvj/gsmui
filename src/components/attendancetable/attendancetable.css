@@ -1,0 +1,8 @@
+.studentstatus > label {
+    padding-right: 10px;
+    cursor: pointer;
+}
+
+.attendancesubmit {
+    float: right;
+}

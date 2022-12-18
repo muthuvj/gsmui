@@ -1,0 +1,26 @@
+.modal {
+    background: transparent;
+    opacity: 0.6;
+}
+
+.modal-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.form-inline {
+    justify-content: space-between;
+    margin: 10px 3px;
+}
+
+.form-group {
+    display: flex;
+    justify-content: flex-end;
+}

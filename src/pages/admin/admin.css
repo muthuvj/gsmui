@@ -1,0 +1,20 @@
+.adminwrapper {
+    margin-top: 20px;
+}
+
+.topcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.topcontainer > .newsfeed > button {
+    margin: 5px 0 15px 0;
+    padding: 0 10px;
+}
+
+.updatefees > .form-group > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}

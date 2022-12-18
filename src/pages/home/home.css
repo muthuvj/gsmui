@@ -1,0 +1,12 @@
+.slider {
+    background: yellow;
+    width: 100vw;
+    height: 67vh;
+    object-fit: contain;
+}
+
+.slideimg {
+    width: 100vw;
+    height: 67vh;
+    object-fit: cover;
+}
